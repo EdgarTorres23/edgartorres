@@ -479,3 +479,13 @@ footer {
     text-align: center;
   }
 }
+
+/* Separación del botón Ver CV */
+.btn.cv {
+    margin-left: 15px; /* Puedes aumentar a 15, 20, 25 si quieres más espacio */
+}
+.btn.cv:hover {
+    background-color: #D32F2F;
+    color: white;
+    transition: 0.3s
+}
